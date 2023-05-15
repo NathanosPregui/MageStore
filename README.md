@@ -1,0 +1,2 @@
+# MageStore
+Site de jogos
